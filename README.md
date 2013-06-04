@@ -26,6 +26,7 @@ Issues can be [submitted](https://github.com/OvercastNetwork/Issues/issues/new) 
 * Bump issues to receive a response (all issues are acknowledged)
 * Argue unproductively in an issue's comments
 * Re-create an issue you feel unjustly closed
+* Add comments such as :+1:, +1 or "I like this idea"
 
 ## Formatting
 
