@@ -20,6 +20,7 @@ If you find a potential exploit or vulnerability, please exercise reasonable dis
 * Argue unproductively in an issue's comments
 * Re-create an issue you feel unjustly closed
 * Add comments such as :+1:, +1 or "I like this idea"
+* Submit issues that are general suggestions rather than *specific, technical* bugs or features
 
 ## Formatting
 

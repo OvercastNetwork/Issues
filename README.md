@@ -27,6 +27,7 @@ Issues can be [submitted](https://github.com/OvercastNetwork/Issues/issues/new) 
 * Argue unproductively in an issue's comments
 * Re-create an issue you feel unjustly closed
 * Add comments such as :+1:, +1 or "I like this idea"
+* Submit issues that are general suggestions rather than *specific, technical* bugs or features
 
 ## Formatting
 
