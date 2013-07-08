@@ -1,7 +1,7 @@
 Issues
 ======
 
-This is a public repository for reporting bugs and requesting features relating to Overcast Network.
+This is a public issue-tracking repository for bugs and confirmed features related to the Overcast Network.
 
 ### Important:
 
@@ -28,7 +28,7 @@ Issues can be [submitted](https://github.com/OvercastNetwork/Issues/issues/new) 
 * Re-create an issue you feel unjustly closed
 * Add comments such as :+1:, +1 or "I like this idea"
 * Submit map-related issues
-* Submit issues that are general suggestions rather than *specific, technical* bugs or features
+* Submit issues that are general suggestions, as opposed to *specific, technical* bugs or *confirmed* features
 
 ## Formatting
 

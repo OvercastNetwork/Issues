@@ -21,7 +21,7 @@ If you find a potential exploit or vulnerability, please exercise reasonable dis
 * Re-create an issue you feel unjustly closed
 * Add comments such as :+1:, +1 or "I like this idea"
 * Submit map-related issues
-* Submit issues that are general suggestions rather than *specific, technical* bugs or features
+* Submit issues that are general suggestions, as opposed to *specific, technical* bugs or *confirmed* features
 
 ## Formatting
 
