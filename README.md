@@ -64,3 +64,32 @@ Try to separate your description into three different sections, if possible:
 'Weeklies' are issue tracker milestones created by Overcast Network staff each weekend. Issues slated to be resolved on any given weekend are assigned to that weekend's relative milestone, so that progress on the weekend's issues can be easily visualized.
 
 **Overcast Network Weeklies can be found [here](https://github.com/OvercastNetwork/Issues/issues/milestones).**
+
+
+=====
+[![Bountysource](http://i.imgur.com/GRMXlQ7.png)](http://www.bountysource.com/trackers/141483-overcast-network-issues)
+
+Overcast Network utilizes [Bountysource](http://www.bountysource.com/trackers/141483-overcast-network-issues) to support the crowd-funding of issue completion.
+
+### How?
+
+1. A user creates an issue
+2. A bounty creation link is automatically added to the bottom of the issue
+3. Any supporters of the issue can add cash ***bounties*** to the issue
+4. Outside developers can submit their own ***solutions*** to the issue
+5. When the issue is resolved, the developer responsible (whether an internal or external developer) receives the bounties
+
+### Why?
+
+* **Incentivizes issue resolution**
+
+    Developers are motivated to solve issues.
+* **Provides extra financial support for developers**
+
+    Programming for a large-scale production environment isn't an average 9-to-5 job.
+* **Shows which issues are most important to users**
+
+    Users have a powerful platform for voicing their desires.
+* **Encourages external developer interaction**
+
+    Outside developers can earn bounties with their solutions, too.
