@@ -29,6 +29,7 @@ Issues can be [submitted](https://github.com/OvercastNetwork/Issues/issues/new) 
 * Add comments such as :+1:, +1 or "I like this idea"
 * Submit map-related issues
 * Submit issues that are general suggestions, as opposed to *specific, technical* bugs or *confirmed* features
+* Create disrespectful or inflammatory comments
 
 ## Formatting
 
