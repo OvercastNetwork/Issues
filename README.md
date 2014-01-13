@@ -16,7 +16,7 @@ Issues can be [submitted](https://github.com/OvercastNetwork/Issues/issues/new) 
 
 ### Do:
 
-* Follow the [formatting guide]("#formatting") to the best of your ability, making sure to include steps to reproduce your issue
+* Follow the [formatting guide](#formatting) to the best of your ability, making sure to include steps to reproduce your issue
 * Search the issue tracker to ensure that your issue is not a duplicate
 * Verify the validity and/or plausibility of your issue
 * Be clear and concise in your description
