@@ -59,10 +59,3 @@ Try to separate your description into three different sections, if possible:
 3. **Miscellaneous information**
 
     Information that doesn't necessarily fit into any other sections. Common examples are attachments, images, or disclaimers.
-
-
-## Weeklies
-
-'Weeklies' are issue tracker milestones created by Overcast Network staff each weekend. Issues slated to be resolved on any given weekend are assigned to that weekend's relative milestone, so that progress on the weekend's issues can be easily visualized.
-
-**Overcast Network Weeklies can be found [here](https://github.com/OvercastNetwork/Issues/issues/milestones).**
